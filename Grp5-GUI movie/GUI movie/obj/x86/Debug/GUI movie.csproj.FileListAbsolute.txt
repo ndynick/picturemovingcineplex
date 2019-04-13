@@ -1,0 +1,78 @@
+C:\Users\SAMSUNG\Desktop\GUI movie\GUI movie\bin\Debug\GUI movie.exe
+C:\Users\SAMSUNG\Desktop\GUI movie\GUI movie\bin\Debug\GUI movie.pdb
+C:\Users\SAMSUNG\Desktop\GUI movie\GUI movie\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\SAMSUNG\Desktop\GUI movie\GUI movie\obj\x86\Debug\GUI_movie.Form1.resources
+C:\Users\SAMSUNG\Desktop\GUI movie\GUI movie\obj\x86\Debug\GUI_movie.Properties.Resources.resources
+C:\Users\SAMSUNG\Desktop\GUI movie\GUI movie\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\SAMSUNG\Desktop\GUI movie\GUI movie\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\SAMSUNG\Desktop\GUI movie\GUI movie\obj\x86\Debug\GUI movie.exe
+C:\Users\SAMSUNG\Desktop\GUI movie\GUI movie\obj\x86\Debug\GUI movie.pdb
+F:\NYP\Year1Sem1\Computing Math - Mrs Helen\Project\GUI movie\GUI movie\obj\x86\Debug\GUI movie.exe
+F:\NYP\Year1Sem1\Computing Math - Mrs Helen\Project\GUI movie\GUI movie\obj\x86\Debug\GUI movie.pdb
+F:\NYP\Year1Sem1\Computing Math - Mrs Helen\Project\GUI movie\GUI movie\bin\Debug\GUI movie.exe
+F:\NYP\Year1Sem1\Computing Math - Mrs Helen\Project\GUI movie\GUI movie\bin\Debug\GUI movie.pdb
+F:\NYP\Year1Sem1\Computing Math - Mrs Helen\Project\GUI movie\GUI movie\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\NYP\Year1Sem1\Computing Math - Mrs Helen\Project\GUI movie\GUI movie\obj\x86\Debug\GUI_movie.Properties.Resources.resources
+F:\NYP\Year1Sem1\Computing Math - Mrs Helen\Project\GUI movie\GUI movie\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\NYP\Year1Sem1\Computing Math - Mrs Helen\Project\GUI movie\GUI movie\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\NYP\Year1Sem1\Computing Math - Mrs Helen\Project\GUI movie\GUI movie\obj\x86\Debug\GUI_movie.ReadForm.resources
+F:\NYP\Year1Sem1\Computing Math - Mrs Helen\Project\GUI movie\GUI movie\obj\x86\Debug\GUI_movie.PmCineplexForm.resources
+F:\NYP\Year1Sem1\Computing Math - Mrs Helen\Project2\GUI movie2\GUI movie\obj\x86\Debug\GUI movie.exe
+F:\NYP\Year1Sem1\Computing Math - Mrs Helen\Project2\GUI movie2\GUI movie\obj\x86\Debug\GUI movie.pdb
+F:\NYP\Year1Sem1\Computing Math - Mrs Helen\Project2\GUI movie2\GUI movie\bin\Debug\GUI movie.exe
+F:\NYP\Year1Sem1\Computing Math - Mrs Helen\Project2\GUI movie2\GUI movie\bin\Debug\GUI movie.pdb
+F:\NYP\Year1Sem1\Computing Math - Mrs Helen\Project2\GUI movie2\GUI movie\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\NYP\Year1Sem1\Computing Math - Mrs Helen\Project2\GUI movie2\GUI movie\obj\x86\Debug\GUI_movie.PmCineplexForm.resources
+F:\NYP\Year1Sem1\Computing Math - Mrs Helen\Project2\GUI movie2\GUI movie\obj\x86\Debug\GUI_movie.Properties.Resources.resources
+F:\NYP\Year1Sem1\Computing Math - Mrs Helen\Project2\GUI movie2\GUI movie\obj\x86\Debug\GUI_movie.ReadForm.resources
+F:\NYP\Year1Sem1\Computing Math - Mrs Helen\Project2\GUI movie2\GUI movie\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\NYP\Year1Sem1\Computing Math - Mrs Helen\Project2\GUI movie2\GUI movie\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\NYP\Year1Sem1\Computing Math - Mrs Helen\Project\Grp5-GUI movie\GUI movie\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\NYP\Year1Sem1\Computing Math - Mrs Helen\Project\Grp5-GUI movie\GUI movie\obj\x86\Debug\GUI_movie.PmCineplexForm.resources
+F:\NYP\Year1Sem1\Computing Math - Mrs Helen\Project\Grp5-GUI movie\GUI movie\obj\x86\Debug\GUI_movie.Properties.Resources.resources
+F:\NYP\Year1Sem1\Computing Math - Mrs Helen\Project\Grp5-GUI movie\GUI movie\obj\x86\Debug\GUI_movie.ReadForm.resources
+F:\NYP\Year1Sem1\Computing Math - Mrs Helen\Project\Grp5-GUI movie\GUI movie\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\NYP\Year1Sem1\Computing Math - Mrs Helen\Project\Grp5-GUI movie\GUI movie\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\NYP\Year1Sem1\Computing Math - Mrs Helen\Project\Grp5-GUI movie\GUI movie\bin\Debug\GUI movie.exe
+F:\NYP\Year1Sem1\Computing Math - Mrs Helen\Project\Grp5-GUI movie\GUI movie\bin\Debug\GUI movie.pdb
+F:\NYP\Year1Sem1\Computing Math - Mrs Helen\Project\Grp5-GUI movie\GUI movie\obj\x86\Debug\GUI movie.exe
+F:\NYP\Year1Sem1\Computing Math - Mrs Helen\Project\Grp5-GUI movie\GUI movie\obj\x86\Debug\GUI movie.pdb
+F:\NYP\Year1Sem1\CSharp - Mrs Helen\Project\Grp5-GUI movie\GUI movie\obj\x86\Debug\GUI movie.exe
+F:\NYP\Year1Sem1\CSharp - Mrs Helen\Project\Grp5-GUI movie\GUI movie\obj\x86\Debug\GUI movie.pdb
+F:\NYP\Year1Sem1\CSharp - Mrs Helen\Project\Grp5-GUI movie\GUI movie\bin\Debug\GUI movie.exe
+F:\NYP\Year1Sem1\CSharp - Mrs Helen\Project\Grp5-GUI movie\GUI movie\bin\Debug\GUI movie.pdb
+F:\NYP\Year1Sem1\CSharp - Mrs Helen\Project\Grp5-GUI movie\GUI movie\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\NYP\Year1Sem1\CSharp - Mrs Helen\Project\Grp5-GUI movie\GUI movie\obj\x86\Debug\GUI_movie.PmCineplexForm.resources
+F:\NYP\Year1Sem1\CSharp - Mrs Helen\Project\Grp5-GUI movie\GUI movie\obj\x86\Debug\GUI_movie.Properties.Resources.resources
+F:\NYP\Year1Sem1\CSharp - Mrs Helen\Project\Grp5-GUI movie\GUI movie\obj\x86\Debug\GUI_movie.ReadForm.resources
+F:\NYP\Year1Sem1\CSharp - Mrs Helen\Project\Grp5-GUI movie\GUI movie\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\NYP\Year1Sem1\CSharp - Mrs Helen\Project\Grp5-GUI movie\GUI movie\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\NICK\NYP\Year1Sem1\CSharp - Mrs Helen\Project All\Project\Grp5-GUI movie\GUI movie\obj\x86\Debug\GUI movie.exe
+F:\NICK\NYP\Year1Sem1\CSharp - Mrs Helen\Project All\Project\Grp5-GUI movie\GUI movie\obj\x86\Debug\GUI movie.pdb
+F:\NICK\NYP\Year1Sem1\CSharp - Mrs Helen\Project All\Project\Grp5-GUI movie\GUI movie\bin\Debug\GUI movie.exe
+F:\NICK\NYP\Year1Sem1\CSharp - Mrs Helen\Project All\Project\Grp5-GUI movie\GUI movie\bin\Debug\GUI movie.pdb
+F:\NICK\NYP\Year1Sem1\CSharp - Mrs Helen\Project All\Project\Grp5-GUI movie\GUI movie\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\NICK\NYP\Year1Sem1\CSharp - Mrs Helen\Project All\Project\Grp5-GUI movie\GUI movie\obj\x86\Debug\GUI_movie.PmCineplexForm.resources
+F:\NICK\NYP\Year1Sem1\CSharp - Mrs Helen\Project All\Project\Grp5-GUI movie\GUI movie\obj\x86\Debug\GUI_movie.Properties.Resources.resources
+F:\NICK\NYP\Year1Sem1\CSharp - Mrs Helen\Project All\Project\Grp5-GUI movie\GUI movie\obj\x86\Debug\GUI_movie.ReadForm.resources
+F:\NICK\NYP\Year1Sem1\CSharp - Mrs Helen\Project All\Project\Grp5-GUI movie\GUI movie\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\NICK\NYP\Year1Sem1\CSharp - Mrs Helen\Project All\Project\Grp5-GUI movie\GUI movie\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\Nick\NYP\Year1\Year1Sem1\CSharp - Mrs Helen\Project All\Project\Grp5-GUI movie\GUI movie\obj\x86\Debug\GUI movie.exe
+G:\Nick\NYP\Year1\Year1Sem1\CSharp - Mrs Helen\Project All\Project\Grp5-GUI movie\GUI movie\obj\x86\Debug\GUI movie.pdb
+G:\Nick\NYP\Year1\Year1Sem1\CSharp - Mrs Helen\Project All\Project\Grp5-GUI movie\GUI movie\bin\Debug\GUI movie.exe
+G:\Nick\NYP\Year1\Year1Sem1\CSharp - Mrs Helen\Project All\Project\Grp5-GUI movie\GUI movie\bin\Debug\GUI movie.pdb
+G:\Nick\NYP\Year1\Year1Sem1\CSharp - Mrs Helen\Project All\Project\Grp5-GUI movie\GUI movie\obj\x86\Debug\GUI_movie.PmCineplexForm.resources
+G:\Nick\NYP\Year1\Year1Sem1\CSharp - Mrs Helen\Project All\Project\Grp5-GUI movie\GUI movie\obj\x86\Debug\GUI_movie.Properties.Resources.resources
+G:\Nick\NYP\Year1\Year1Sem1\CSharp - Mrs Helen\Project All\Project\Grp5-GUI movie\GUI movie\obj\x86\Debug\GUI_movie.ReadForm.resources
+G:\Nick\NYP\Year1\Year1Sem1\CSharp - Mrs Helen\Project All\Project\Grp5-GUI movie\GUI movie\obj\x86\Debug\GUI movie.csproj.GenerateResource.Cache
+C:\Users\NICK LOW\Desktop\Github\PictureMovingCineplex Application\Grp5-GUI movie\GUI movie\obj\x86\Debug\GUI movie.exe
+C:\Users\NICK LOW\Desktop\Github\PictureMovingCineplex Application\Grp5-GUI movie\GUI movie\obj\x86\Debug\GUI movie.pdb
+C:\Users\NICK LOW\Desktop\Github\PictureMovingCineplex Windows Application\Grp5-GUI movie\GUI movie\obj\x86\Debug\GUI movie.exe
+C:\Users\NICK LOW\Desktop\Github\PictureMovingCineplex Windows Application\Grp5-GUI movie\GUI movie\obj\x86\Debug\GUI movie.pdb
+C:\Users\NICK LOW\Desktop\Github\PictureMovingCineplex Windows Application\Grp5-GUI movie\GUI movie\bin\Debug\GUI movie.exe
+C:\Users\NICK LOW\Desktop\Github\PictureMovingCineplex Windows Application\Grp5-GUI movie\GUI movie\bin\Debug\GUI movie.pdb
+C:\Users\NICK LOW\Desktop\Github\PictureMovingCineplex Windows Application\Grp5-GUI movie\GUI movie\obj\x86\Debug\GUI movie.csprojResolveAssemblyReference.cache
+C:\Users\NICK LOW\Desktop\Github\PictureMovingCineplex Windows Application\Grp5-GUI movie\GUI movie\obj\x86\Debug\GUI_movie.PmCineplexForm.resources
+C:\Users\NICK LOW\Desktop\Github\PictureMovingCineplex Windows Application\Grp5-GUI movie\GUI movie\obj\x86\Debug\GUI_movie.Properties.Resources.resources
+C:\Users\NICK LOW\Desktop\Github\PictureMovingCineplex Windows Application\Grp5-GUI movie\GUI movie\obj\x86\Debug\GUI_movie.ReadForm.resources
+C:\Users\NICK LOW\Desktop\Github\PictureMovingCineplex Windows Application\Grp5-GUI movie\GUI movie\obj\x86\Debug\GUI movie.csproj.GenerateResource.Cache
